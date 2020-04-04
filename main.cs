@@ -4,8 +4,7 @@ namespace fizzbuzz
 {
 
 class MainClass {
-  public static void Main () {
-    
+  public static void Main () { 
     
   Console.WriteLine("Enter a number: ");
   int userInput = Convert.ToInt32(Console.ReadLine());
